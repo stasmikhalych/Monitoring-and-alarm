@@ -1,4 +1,4 @@
-              #     Monitoring and troubleshouting node system
+              #Monitoring and troubleshouting node system
 
 1.	Server hardware monitoring.
 I’m using 3-d party commercial system to monitor server:
