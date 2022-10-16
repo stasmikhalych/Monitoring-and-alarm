@@ -1,4 +1,4 @@
-                                       #H1       Monitoring and troubleshouting node system
+                                       MONITORING AND TROUBLESHOUTING VALIDATOR'S NODE
 
 1.	Server hardware monitoring.
 I’m using 3-d party commercial system to monitor server:
